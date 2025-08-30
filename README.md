@@ -9,4 +9,4 @@ This project simulates an end-to-end marketing analytics workflow:
   - LTV by channel
   - Retention cohort curves
 
-📊 Explore the full Tableau workbook here: [Download Workbook](./marketing-analytics-dashboard.twbx)
+Explore the full Tableau workbook here: [Download Workbook](./marketing-analytics-dashboard.twbx)
